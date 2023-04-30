@@ -1,5 +1,5 @@
 # AboApp2Excel
-There is an App i use for tracking recurring payments:
+There is an awesome App i use for tracking recurring payments:
 https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager&amp;ref=https://github.com/networksecurityvodoo/
 
 Now i wantend to export the information to excel to include in my dashboard.
