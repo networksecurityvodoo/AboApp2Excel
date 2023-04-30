@@ -7,7 +7,7 @@ https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager&
 
 
 I now wantend to export the information to excel to include in my dashboard.
-So i wrote 2 Powershellscripts for that.
+So i wrote two Powershellscripts for that.
 
 Usage:
 1. Save an Backup from within the App and load on your PC.
